@@ -10,8 +10,7 @@ Features:
 Installation:
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/Subscribe-Button.git
-
+   git clone https://github.com/Shivanshtiwari1234/Subscribe-Button.git
 2. Open the subscribe.html file in any browser to see the button.
 
 Usage:
