@@ -1,0 +1,43 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# SASS cache files
+.sass-cache/
+
+# Parcel cache files
+.cache/
+
+# Build directories
+dist/
+build/
+
+# Environment variables
+.env
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dependency directories
+bower_components/
+
+# Compiled files
+*.css.map
+*.js.map
+
+# Temporary files created by the editor
+*.swp
+*~
